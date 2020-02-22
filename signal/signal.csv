@@ -1,0 +1,12 @@
+Device, col8, 4
+Device, col8, 25
+Device, col8, 15
+Device, col9, 40
+OS, col6, 4
+OS, col6, 25
+OS, col6, 15
+OS, col7, 40
+Region, col6, 5
+Region, col7, 24
+Region, col8, 13
+Region, col10, 45
